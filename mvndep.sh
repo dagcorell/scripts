@@ -1,5 +1,6 @@
 #!/bin/bash
 # Create xml snippet for mvn dependency as string
+# Example usage: mvndep.sh org.apache.jena:jena-arq:jar:2.9.4:compile
 # Dag Corell 2017
 
 IN=$1
